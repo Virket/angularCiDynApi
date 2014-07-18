@@ -1,0 +1,10 @@
+{
+    "name": "composeit/angularCiDynApi",
+    "license": "GNU LESSER GENERAL PUBLIC LICENSE",
+    "keywords": ["angular","code igniter","REST","api","dynamic"],
+    "type": "library",
+    "description": "Creates angular resouces matching your CI controllers",
+    "autoload": {
+        "files": ["lib/DynApi.php"]
+    }
+}
